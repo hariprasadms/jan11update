@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411591202312",
+    "project_id": "jan11thupdate-v6pl7m",
+    "storage_bucket": "jan11thupdate-v6pl7m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411591202312:android:5a1eb58e7af6954d50a3bd",
+        "android_client_info": {
+          "package_name": "com.mycompany.jan11thupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdrpzCAwTFxx45bLKEusKIBTftZGhfrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
